@@ -1,0 +1,22 @@
+{
+  "name": "@oddnetworks/oddworks-cli",
+  "version": "1.0.0",
+  "description": "A command line tool for working with an Oddworks server",
+  "main": "./lib/index.js",
+  "bin": {
+    "oddworks": "./lib/index.js"
+  },
+  "scripts": {
+    "test": "NODE_ENV=test npm run lint && npm run sec && npm run tape"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oddnetworks/oddworks-cli.git"
+  },
+  "author": "Odd Networks",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/oddnetworks/oddworks-cli/issues"
+  },
+  "homepage": "https://github.com/oddnetworks/oddworks-cli#readme"
+}
