@@ -1,4 +1,4 @@
-# oddworks-cli
+# @oddnetworks/oddworks-cli
 
 ## Install
 
