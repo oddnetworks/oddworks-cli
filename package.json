@@ -1,6 +1,6 @@
 {
   "name": "@oddnetworks/oddworks-cli",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A command line tool for working with an Oddworks server",
   "bin": {
     "oddworks": "./lib/oddworks-cli.js"
